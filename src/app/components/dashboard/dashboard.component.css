@@ -1,0 +1,9 @@
+input {
+  text-align: center;
+}
+
+.spinner{
+  width: 10px;
+  height: 10px;
+  margin: 2px;
+}
